@@ -1,0 +1,7 @@
+C:\Users\artem\source\repos\Victorina\Victorina\bin\Debug\Victorina.exe.config
+C:\Users\artem\source\repos\Victorina\Victorina\bin\Debug\Victorina.exe
+C:\Users\artem\source\repos\Victorina\Victorina\bin\Debug\Victorina.pdb
+C:\Users\artem\source\repos\Victorina\Victorina\obj\Debug\Victorina.csproj.AssemblyReference.cache
+C:\Users\artem\source\repos\Victorina\Victorina\obj\Debug\Victorina.csproj.CoreCompileInputs.cache
+C:\Users\artem\source\repos\Victorina\Victorina\obj\Debug\Victorina.exe
+C:\Users\artem\source\repos\Victorina\Victorina\obj\Debug\Victorina.pdb
